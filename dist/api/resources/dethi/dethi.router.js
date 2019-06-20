@@ -1,0 +1,24 @@
+'use strict';
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.dethiRouter = undefined;
+
+var _express = require('express');
+
+var _express2 = _interopRequireDefault(_express);
+
+var _dethi = require('./dethi.controller');
+
+var _dethi2 = _interopRequireDefault(_dethi);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+var dethiRouter = exports.dethiRouter = _express2.default.Router();
+dethiRouter.route('/').post(_dethi2.default.create).get(_dethi2.default.findAll);
+
+dethiRouter.route('/:id').get(_dethi2.default.findOne).delete(_dethi2.default.delete).put(_dethi2.default.update);
+
+dethiRouter.get('/find-by-date/:date', _dethi2.default.findByDate);
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL3NyYy9hcGkvcmVzb3VyY2VzL2RldGhpL2RldGhpLnJvdXRlci5qcyJdLCJuYW1lcyI6WyJkZXRoaVJvdXRlciIsImV4cHJlc3MiLCJSb3V0ZXIiLCJyb3V0ZSIsInBvc3QiLCJkZXRoaUNvbnRyb2xsZXIiLCJjcmVhdGUiLCJnZXQiLCJmaW5kQWxsIiwiZmluZE9uZSIsImRlbGV0ZSIsInB1dCIsInVwZGF0ZSIsImZpbmRCeURhdGUiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFBQTs7OztBQUNBOzs7Ozs7QUFFTyxJQUFNQSxvQ0FBY0Msa0JBQVFDLE1BQVIsRUFBcEI7QUFDUEYsWUFDR0csS0FESCxDQUNTLEdBRFQsRUFFR0MsSUFGSCxDQUVRQyxnQkFBZ0JDLE1BRnhCLEVBR0dDLEdBSEgsQ0FHT0YsZ0JBQWdCRyxPQUh2Qjs7QUFLQVIsWUFDR0csS0FESCxDQUNTLE1BRFQsRUFFR0ksR0FGSCxDQUVPRixnQkFBZ0JJLE9BRnZCLEVBR0dDLE1BSEgsQ0FHVUwsZ0JBQWdCSyxNQUgxQixFQUlHQyxHQUpILENBSU9OLGdCQUFnQk8sTUFKdkI7O0FBTUFaLFlBQVlPLEdBQVosQ0FBZ0IscUJBQWhCLEVBQXVDRixnQkFBZ0JRLFVBQXZEIiwiZmlsZSI6ImRldGhpLnJvdXRlci5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBleHByZXNzIGZyb20gJ2V4cHJlc3MnO1xyXG5pbXBvcnQgZGV0aGlDb250cm9sbGVyIGZyb20gJy4vZGV0aGkuY29udHJvbGxlcic7XHJcblxyXG5leHBvcnQgY29uc3QgZGV0aGlSb3V0ZXIgPSBleHByZXNzLlJvdXRlcigpO1xyXG5kZXRoaVJvdXRlclxyXG4gIC5yb3V0ZSgnLycpXHJcbiAgLnBvc3QoZGV0aGlDb250cm9sbGVyLmNyZWF0ZSlcclxuICAuZ2V0KGRldGhpQ29udHJvbGxlci5maW5kQWxsKTtcclxuXHJcbmRldGhpUm91dGVyXHJcbiAgLnJvdXRlKCcvOmlkJylcclxuICAuZ2V0KGRldGhpQ29udHJvbGxlci5maW5kT25lKVxyXG4gIC5kZWxldGUoZGV0aGlDb250cm9sbGVyLmRlbGV0ZSlcclxuICAucHV0KGRldGhpQ29udHJvbGxlci51cGRhdGUpO1xyXG5cclxuZGV0aGlSb3V0ZXIuZ2V0KCcvZmluZC1ieS1kYXRlLzpkYXRlJywgZGV0aGlDb250cm9sbGVyLmZpbmRCeURhdGUpXHJcbiJdfQ==

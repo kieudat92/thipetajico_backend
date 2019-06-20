@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea1efcb0-eb4f-4dd6-a313-5badfe008897" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/api/resources/cauhoi/cauhoi.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/resources/cauhoi/cauhoi.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/resources/cauhoi/cauhoi.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/resources/chude/chude.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/resources/chude/chude.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/resources/chude/chude.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/resources/dethi/dethi.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/resources/dethi/dethi.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/resources/dethi/dethi.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/resources/imgUpload/imgUpload.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/resources/imgUpload/imgUpload.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/resources/tester/tester.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/resources/tester/tester.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/resources/tester/tester.router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/311_ott.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/resources/facebook/facebook.controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/resources/facebook/facebook.router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/resources/requestOTT/requestOTT.controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/resources/requestOTT/requestOTT.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/resources/requestOTT/requestOTT.router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/resources/requestOTT/requestOTT.service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/resources/telegram/telegram.controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/resources/telegram/telegram.router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/resources/userOTT/userOTT.controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/resources/userOTT/userOTT.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/resources/userOTT/userOTT.router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/resources/userOTT/userOTT.service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/resources/zalo/zalo.controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/resources/zalo/zalo.router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/utils/fileUtils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/utils/validateRequest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/config.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/resources/imgUpload/imgUpload.router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/resources/cauhoi/cauhoi.router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/resources/imgUpload/imgUpload.controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/resources/dethi/dethi.controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/resources/tester/tester.controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="30" column="72" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/api/resources/cauhoi/cauhoi.controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="92" column="6" selection-start-line="92" selection-start-column="6" selection-end-line="92" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/resources/dethi/dethi.router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/resources/dethi/dethi.model.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/resources/cauhoi/cauhoi.model.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Promise</find>
+      <find>checkMainBucket</find>
+      <find>createWriteStream</find>
+      <find>createByName</find>
+      <find>ex</find>
+      <find>file</find>
+      <find>time_query1</find>
+      <find>files</find>
+      <find>requestOTTCtr</find>
+      <find>res</find>
+      <find>createOTTReq</find>
+      <find>tokenfb</find>
+      <find>c</find>
+      <find>url</find>
+      <find>zalo</find>
+      <find>getFileName</find>
+      <find>handleMessage</find>
+      <find>chudeController</find>
+      <find>faqs</find>
+      <find>chude</find>
+      <find>cauhoi</find>
+      <find>dethi</find>
+      <find>checkTempFolder</find>
+      <find>multipartMiddleware</find>
+      <find>diskStorage</find>
+      <find>imgUploadController</find>
+      <find>fs</find>
+      <find>unlink</find>
+      <find>path</find>
+      <find>process</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>{ success: false, message: 'Dữ liệu không tồn tại' }</replace>
+      <replace>citizenController</replace>
+      <replace>Chude</replace>
+      <replace>cauhoi</replace>
+      <replace>dethi</replace>
+      <replace>tester</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/api/resources/unitProcess/index.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/unitCombine/index.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/unitCombine/unitCombine.router.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/unitProcess/unitProcess.router.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/unitProcess/unitProcess.controller.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/citizen/citizen.router.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/unit/unit.router.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/user/user.model.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/unit/unit.controller.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/unitCombine/unitCombine.model.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/unitProcess/unitProcess.model.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/unitCombine/unitCombine.controller.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/request/request.router.js" />
+        <option value="$PROJECT_DIR$/src/api/middlewares/passport-jwt.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/request/request.model.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/request/request.service.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/request/request.controller.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/report/report.controller.js" />
+        <option value="$PROJECT_DIR$/src/api/constant/constant.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/report/report.router.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/facebook/facebook.router.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/telegram/telegram.router.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/telegram/telegram.controller.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/zalo/zalo.router.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/requestOTT/requestOTT.router.js" />
+        <option value="$PROJECT_DIR$/src/api/utils/convertDateTime.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/userOTT/userOTT.router.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/requestOTT/requestOTT.model.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/userOTT/userOTT.model.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/userOTT/userOTT.controller.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/requestOTT/requestOTT.controller.js" />
+        <option value="$PROJECT_DIR$/src/api/utils/fileUtils.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/chude/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/api/resources/chude/chude.router.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/dethi/dethi.router.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/tester/tester.router.js" />
+        <option value="$PROJECT_DIR$/src/config/config.js" />
+        <option value="$PROJECT_DIR$/src/api/index.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/imgUpload/imgUpload.controller.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/cauhoi/cauhoi.model.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/tester/tester.model.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/dethi/dethi.model.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/chude/chude.model.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/chude/chude.controller.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/tester/tester.controller.js" />
+        <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/dethi/dethi.controller.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/imgUpload/imgUpload.router.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/cauhoi/cauhoi.router.js" />
+        <option value="$PROJECT_DIR$/src/api/resources/cauhoi/cauhoi.controller.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="base_backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base_backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base_backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base_backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base_backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base_backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="cauhoi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base_backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="chude" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base_backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="dethi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base_backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="imgUpload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base_backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="tester" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\tRadar_Project\base_backend\src\api\resources\imgUpload" />
+      <recent name="E:\tRadar_Project\base_backend" />
+      <recent name="E:\tRadar_Project\base_backend\src\api\resources" />
+      <recent name="E:\tRadar_Project\311_ott\src\api\resources" />
+      <recent name="E:\tRadar_Project\my_project\src\api\resources\report" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\tRadar_Project\my_project\src\api\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea1efcb0-eb4f-4dd6-a313-5badfe008897" name="Default" comment="" />
+      <created>1534123676250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534123676250</updated>
+      <workItem from="1534123677970" duration="10703000" />
+      <workItem from="1534296770946" duration="20124000" />
+      <workItem from="1534433690474" duration="599000" />
+      <workItem from="1534469777832" duration="12389000" />
+      <workItem from="1534553604941" duration="15933000" />
+      <workItem from="1534901031942" duration="601000" />
+      <workItem from="1535618619997" duration="552000" />
+      <workItem from="1535689695137" duration="1806000" />
+      <workItem from="1536068334635" duration="77000" />
+      <workItem from="1536887168593" duration="120000" />
+      <workItem from="1536887298858" duration="2943000" />
+      <workItem from="1536896249821" duration="16772000" />
+      <workItem from="1536936564464" duration="17342000" />
+      <workItem from="1537059748556" duration="633000" />
+      <workItem from="1537094869632" duration="2661000" />
+      <workItem from="1537146351918" duration="6072000" />
+      <workItem from="1537201236286" duration="19031000" />
+      <workItem from="1537321522000" duration="27948000" />
+      <workItem from="1537455272635" duration="24000" />
+      <workItem from="1537492104649" duration="7098000" />
+      <workItem from="1537503034534" duration="13000" />
+      <workItem from="1537504228695" duration="900000" />
+      <workItem from="1537517624822" duration="918000" />
+      <workItem from="1537583235918" duration="863000" />
+      <workItem from="1537779913358" duration="1744000" />
+      <workItem from="1537838093894" duration="19796000" />
+      <workItem from="1537933576112" duration="836000" />
+      <workItem from="1538023064951" duration="10651000" />
+      <workItem from="1538108392561" duration="438000" />
+      <workItem from="1542333645165" duration="18267000" />
+      <workItem from="1542421491351" duration="7188000" />
+      <workItem from="1542440182868" duration="3672000" />
+      <workItem from="1542524922953" duration="6948000" />
+      <workItem from="1542545310123" duration="622000" />
+      <workItem from="1542591362107" duration="21554000" />
+      <workItem from="1542635301606" duration="13000" />
+      <workItem from="1542637017640" duration="5152000" />
+      <workItem from="1542676751074" duration="13665000" />
+      <workItem from="1542783831444" duration="1985000" />
+      <workItem from="1556176244559" duration="9000" />
+      <workItem from="1558794217164" duration="42000" />
+      <workItem from="1558804834716" duration="194000" />
+      <workItem from="1558805039678" duration="4287000" />
+      <workItem from="1558919269545" duration="2392000" />
+      <workItem from="1559051684700" duration="3417000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="288994000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22470239" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32943144" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="TypeScript" order="10" />
+      <window_info anchor="bottom" id="RNConsole" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/api/resources/category/category.router.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/category/category.controller.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/category/category.model.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/request/request.router.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/request/request.controller.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/request/request.model.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/request/request.service.js" />
+    <entry file="file://$PROJECT_DIR$/src/config/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/resources/zalo/zalo.controller.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/facebook/facebook.controller.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/facebook/facebook.router.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/telegram/telegram.router.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/middlewares/passport-jwt.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/helpers/jwt.js" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript6.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/requestOTT/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/requestOTT/requestOTT.service.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/telegram/telegram.controller.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/utils/convertDateTime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/resources/zalo/zalo.router.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/userOTT/userOTT.model.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/requestOTT/requestOTT.model.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/url/url.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/requestOTT/requestOTT.controller.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/utils/fileUtils.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/requestOTT/requestOTT.router.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/utils/validateRequest.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/userOTT/userOTT.controller.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/userOTT/userOTT.router.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/resources/chude/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/constant/constant.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/utils/responseAction.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/resources/tester/tester.router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/1558920026967_images.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/resources/tester/tester.model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/resources/chude/chude.model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/resources/chude/chude.router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/resources/chude/chude.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/resources/tester/tester.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="30" column="72" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/resources/dethi/dethi.router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/resources/dethi/dethi.model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/resources/dethi/dethi.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/resources/imgUpload/imgUpload.router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/resources/cauhoi/cauhoi.model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/resources/cauhoi/cauhoi.router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/resources/imgUpload/imgUpload.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/resources/cauhoi/cauhoi.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="92" column="6" selection-start-line="92" selection-start-column="6" selection-end-line="92" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

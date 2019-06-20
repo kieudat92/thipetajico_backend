@@ -1,0 +1,6 @@
+///////////export tu 1 bang
+// trong programfile -> mongodb -> server ->4.0-> bin ->cmd
+mongoexport --db dbdethi --collection chudes --out D:/export.json
+/////////import vao 1 bang
+mongoimport --db dbdethi --collection cauhois --file  D:/export_cauhoi.json
+
